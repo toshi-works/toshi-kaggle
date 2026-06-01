@@ -221,3 +221,5 @@ __marimo__/
 *.xlsx
 *.json
 *.env
+*.md
+*.txt
