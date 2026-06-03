@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+.git/
+data/
+output/
+*.csv
+*.xlsx
