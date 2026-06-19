@@ -223,3 +223,8 @@ __marimo__/
 *.env
 *.md
 *.txt
+*.wav
+*.mp3
+*.m4a
+*.jpg
+*.png
