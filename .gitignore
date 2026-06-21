@@ -228,3 +228,29 @@ __marimo__/
 *.m4a
 *.jpg
 *.png
+*.md
+
+# Kaggle API Key
+**/kaggle.json
+
+# Deep Learning Models & Weights
+*.pth
+*.pt
+*.h5
+*.bin
+*.onnx
+
+# ML/DL Logs & Metrics
+runs/
+mlruns/
+.lightning/
+
+# Kaggle Competition Data
+**/input/
+**/output/
+
+*.mov
+*.mp4
+*.wav
+*.m4v
+*.MOV
